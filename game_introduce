@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+<b>
+
+<div class="container">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li role="presentation" ><a href="#">開發動機</a></li>
+            <li role="presentation" class="active"><a href="#">遊戲介紹</a></li>
+            <li role="presentation"><a href="#">連絡我們</a></li>
+          </ul>
+        </nav>
+        <h3 class="text-muted">Card Game</h3>
+     </div>
+
+<div class="jumbotron">
+	<h1>遊戲介紹</h1>
+    <img src="http://i.imgur.com/PX049QU.jpg" class="img-responsive "alt="圖騙炫泡" >
+    </div>
+      <div class="row marketing">
+        <div class="col-lg-6">
+          <h2>遊戲戰鬥勝利條件</h2>
+          <br>
+          <h4>屬性</h4>
+          <p>水->火->木->水</p>
+          <h4>星星數</h4>
+          <p>越多越好R</p>
+         
+        </div>
+
+        <div class="col-lg-6">
+        <h2>遊戲一場勝利條件</h2>
+        <br>
+          <h4>贏得3套水火木</h4>
+          <p>OwO</p>
+          <h4>或者贏到一個屬性有7張也4可以la</h4>
+          <p>拿到很多張火??  全梭吧騷年:3</p>
+          
+        </div>
+      </div>
+		<br>
+      <footer class="footer">
+        <p>&copy; 2017 第八組la</p>
+      </footer>
+
+    </div>
+</body>
+</html>
