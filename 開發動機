@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+<b>
+
+<div class="container">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li role="presentation" class="active"><a href="#">開發動機</a></li>
+            <li role="presentation"><a href="#">遊戲介紹</a></li>
+            <li role="presentation"><a href="#">連絡我們</a></li>
+          </ul>
+        </nav>
+        <h3 class="text-muted">Card Game</h3>
+     </div>
+
+<div class="jumbotron">
+	<h1>開發動機</h1>
+    <img src="http://inbirth.info/img/april2013/ss_ultimatekakin.jpg" class="img-responsive "alt="圖騙炫泡" >
+    </div>
+      <div class="row marketing">
+        <div class="col-lg-6">
+          <h4>開發動機</h4>
+          <p>卡牌遊戲很炫泡R</p>
+         
+        </div>
+
+        <div class="col-lg-6">
+          <h4>還有就4可以打架</h4>
+          <p>OwO</p>
+          
+        </div>
+      </div>
+		<br>
+      <footer class="footer">
+        <p>&copy; 2017 第八組la</p>
+      </footer>
+
+    </div>
+</body>
+</html>
